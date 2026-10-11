@@ -1,4 +1,4 @@
-# Windows Wi-Fi Diagnostic & Support Tool
+# NetPulse-Win | Powershell
 
 A PowerShell-based troubleshooting tool designed for basic **L1 IT Support** and **Windows network diagnostics**.
 
