@@ -4,7 +4,7 @@ A PowerShell-based troubleshooting tool designed for basic **L1 IT Support** and
 
 ## Project Overview
 
-The **Windows Wi-Fi Diagnostic & Support Tool** automates common first-level network troubleshooting checks on a Windows system.
+The **NetPulse-Win** automates common first-level network troubleshooting checks on a Windows system.
 
 Instead of manually running multiple network commands, the tool performs several diagnostic checks and generates a timestamped text report containing the results.
 
@@ -140,7 +140,7 @@ The generated report can also provide useful information when documenting or esc
 ## Project Structure
 
 ```text
-Wifi-Diagnostic-Support-Tool/
+NetPulse-Win/
 │
 ├── Wifi-Diagnostic.ps1
 ├── README.md
@@ -191,4 +191,4 @@ Author
 
 Tishone Prabhu
 
-BCA Graduate | Aspiring L1 IT Support / IT Operations Professional
+BCA Graduate / IT Operations Professional
