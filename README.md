@@ -59,7 +59,7 @@ Diagnostic Report
 Navigate to the project directory.
 
 ```powershell
-cd "Wifi Diagnostic & Support tool"
+cd "NetPulse_win"
 ```
 
 ### 2. Allow the Script for the Current PowerShell Session
