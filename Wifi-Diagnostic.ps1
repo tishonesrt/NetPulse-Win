@@ -7,7 +7,7 @@
 Clear-Host
 
 Write-Host "================================================"
-Write-Host "     Windows Wi-Fi Diagnostic & Support Tool"
+Write-Host "                NetPulse-Win "
 Write-Host "================================================"
 Write-Host ""
 
